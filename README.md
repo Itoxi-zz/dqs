@@ -1,7 +1,7 @@
 dqs
 ===
 
-Personal web site for tracking Diet Quality Score (DQS) using (Matt Fitzgerald's formula)[http://www.velopress.com/books/racing-weight-2nd-ed/].  There are very few apps/sites for tracking this data, so I've decided to create my own.  
+Personal web site for tracking Diet Quality Score (DQS) using [Matt Fitzgerald's formula](http://www.velopress.com/books/racing-weight-2nd-ed).  There are very few apps/sites for tracking this data, so I've decided to create my own.  
 
 Server
 ===
